@@ -4,4 +4,4 @@ Recientemente [SocialTic](https://socialtic.org/) liberó [API Candidaturas MX](
 
 Para seguir este tutorial es necesario que vayas siguiendo el código en un Notebook de jupyter (este tutorial no hablará de como instalar jupyter ni de como echarlo a andar, pero puedes seguir [este tutorial](https://github.com/irvingfisica/covid-bokeh) y aprender un poco de análisis de datos y graficación en python). Además necesitaras obtener un token de consulta para la API de SocialTic y un token de consulta para la API de twitter. Además haremos manejo de JSONs y crearemos algunas funciones en python, por lo tanto el tutorial asume que sabes un poco de Python. Si hay alguna instrucción que no entiendes no dudes en preguntarme por MD en mi cuenta de Twitter: [@moaimx](https://twitter.com/moaimx).
 
-El tutorial lo encuentras en este [enlace]()
+El tutorial lo encuentras en este [enlace](https://nbviewer.jupyter.org/github/irvingfisica/tutorial_api_electoral_twitter/blob/master/tutorial.ipynb)
