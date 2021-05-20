@@ -1,0 +1,7 @@
+# Tutorial para extraer información de cuentas de twitter de candidatos electorales
+
+Recientemente [SocialTic](https://socialtic.org/) liberó [API Candidaturas MX](https://socialtic.org/blog/api-candidaturas-mx/), una API para obtener información de ~2,500 candidatos que participarán en las elecciones mexicanas de 2021. La API cuenta con información de candidatos a diputaciones federals, gubernaturas y presidencias municipales. En este documento jugamos un poco con la API y a manera de tutorial mostramos como se puede consumir desde Python y cruzar sus datos con datos obtenidos a partir de Twitter.
+
+Para seguir este tutorial es necesario que vayas siguiendo el código en un Notebook de jupyter (este tutorial no hablará de como instalar jupyter ni de como echarlo a andar, pero puedes seguir [este tutorial](https://github.com/irvingfisica/covid-bokeh) y aprender un poco de análisis de datos y graficación en python). Además necesitaras obtener un token de consulta para la API de SocialTic y un token de consulta para la API de twitter. Además haremos manejo de JSONs y crearemos algunas funciones en python, por lo tanto el tutorial asume que sabes un poco de Python. Si hay alguna instrucción que no entiendes no dudes en preguntarme por MD en mi cuenta de Twitter: [@moaimx](https://twitter.com/moaimx).
+
+El tutorial lo encuentras en este [enlace]()
